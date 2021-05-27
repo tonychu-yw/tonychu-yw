@@ -1,5 +1,6 @@
-### Hi there 👋 I am Tony Chu!  
+### Hello there! I am Tony Chu!   
 
+I am currently working on creating automatic LC subject headings with Charlene @ NYU Libraries. Please feel free to reach out to me at tonychu-yw at gmail.com. Profile Photo: His Boundlessness Dubs I.
 
 **Area of Interest:**
 - Natural Language Processing
@@ -11,6 +12,3 @@
 **Education:**
 - Master of Science in Information Management @ University of Washington
 - Bachelor of Business Administration @ National Taiwan University 
-
-
-Profile Photo: His Boundlessness Dubs I
