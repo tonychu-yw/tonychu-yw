@@ -10,4 +10,4 @@ I'm currently working on creating automatic LC subject headings with Charlene @ 
 
 **Education:**
 - Master of Science in Information Management @ University of Washington
-- Bachelor of Business Administration @ National Taiwan University 
+- Bachelor of Business Administration, Minor in Philosophy @ National Taiwan University 
