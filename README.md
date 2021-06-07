@@ -6,6 +6,7 @@ I'm currently working on creating automatic LC subject headings with Charlene @ 
 - Natural Language Processing
 - Information Retrieval
 - Machine Learning 
+- Deep Learning
 - Statistical Modeling
 
 **Education:**
