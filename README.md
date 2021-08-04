@@ -4,10 +4,10 @@ I'm currently working on creating automatic LC subject headings with Charlene @ 
 
 **Area of Interest:**
 - Natural Language Processing
-- Information Retrieval
+- Recommender System 
+- Time Series Forecasting
 - Machine Learning 
 - Deep Learning
-- Statistical Modeling
 
 **Education:**
 - Master of Science in Information Management @ University of Washington
