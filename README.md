@@ -5,7 +5,7 @@ I'm currently working on creating automatic LC subject headings with Charlene @ 
 **Area of Interest:**
 - Natural Language Processing
 - Recommender System 
-- Time Series Forecasting
+- Time Series Analysis
 - Deep Learning
 - Machine Learning 
 
