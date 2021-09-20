@@ -4,10 +4,10 @@ I'm currently working on automatically suggesting LC subject headings with Charl
 
 **Area of Interest:**
 - Natural Language Processing
-- Recommender Systems 
-- Time Series Analysis
 - Machine Learning 
 - Deep Learning
+- Recommender Systems 
+- Time Series Analysis
 
 **Education:**
 - Master of Science in Information Management @ University of Washington
