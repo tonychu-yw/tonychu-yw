@@ -1,4 +1,4 @@
-### Hello there! I am Tony Chu, a recent graduate from UW iSchool with great interest in data.
+### Hello there! I am Tony Chu, a data scientist.
 
 **Area of Interest:**
 - Natural Language Processing
