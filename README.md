@@ -1,4 +1,4 @@
-### Hello there! I am Tony Chu, a data scientist.
+### Hello there! I am Tony Chu!
 
 **Area of Interest:**
 - Natural Language Processing
