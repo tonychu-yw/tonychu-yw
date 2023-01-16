@@ -1,11 +1,9 @@
 ### Hello there! I am Tony Chu!
 
 **Area of Interest:**
-- Natural Language Processing
-- Machine Learning 
-- Deep Learning
-- Recommender Systems 
+- Natural Language Processing, specifically embeddings for semantic similarity search
 - Time Series Analysis
+- General Data Science / Machine Learning / Deep Learning
 
 **Education:**
 - Master of Science in Information Management @ University of Washington
