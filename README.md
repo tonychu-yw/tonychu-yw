@@ -3,7 +3,7 @@
 **Area of Interest:**
 - Natural Language Processing, specifically embeddings for semantic similarity search
 - Time Series Analysis
-- General Data Science / Machine Learning / Deep Learning
+- All Data Science / Machine Learning / Deep Learning applications in different industries! 
 
 **Education:**
 - Master of Science in Information Management @ University of Washington
