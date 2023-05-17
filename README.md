@@ -3,11 +3,9 @@
 **Area of Interest:**
 - Natural Language Processing
 - Time Series Analysis
-- General Data Science / Statistics / Machine Learning 
 
 **Education:**
 - Master of Science in Information Management @ University of Washington
 - Bachelor of Business Administration, Minor in Philosophy @ National Taiwan University 
-
 
 Profile Photo: His Boundlessness Dubs I.
