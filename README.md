@@ -8,4 +8,5 @@
 - Master of Science in Information Management @ University of Washington
 - Bachelor of Business Administration, Minor in Philosophy @ National Taiwan University 
 
+
 Profile Photo: His Boundlessness Dubs I.
